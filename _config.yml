@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Hann Woei Ho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_3311_square_reduced.jpg"
   bio              : "I am an **updating** the page."
   location         : "Penang, Malaysia"
   email            :
