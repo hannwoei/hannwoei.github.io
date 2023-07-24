@@ -9,7 +9,7 @@ main:
    - title: "Projects"
   #   url: /year-archive/
    - title: "Publications"
-  #   url: /collection-archive/
+     url: /publication/
    - title: "Code"
    - title: "News"
   # - title: "Sitemap"
