@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Hann-Woei-Ho"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=zZ0i75kAAAAJ&hl=en"
       
 # Site Footer
