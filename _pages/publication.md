@@ -1,5 +1,6 @@
 ---
 layout: single
+type: pages
 author_profile: true
 title: "Publications"
 permalink: /publication/
