@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: post
 type: pages
 author_profile: true
 title: "Publications"
