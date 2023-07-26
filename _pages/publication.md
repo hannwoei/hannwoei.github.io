@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 type: pages
 author_profile: true
 title: "Publications"
