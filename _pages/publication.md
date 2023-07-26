@@ -1,6 +1,5 @@
 ---
-layout: post
-type: pages
+layout: home
 author_profile: true
 title: "Publications"
 permalink: /publication/
