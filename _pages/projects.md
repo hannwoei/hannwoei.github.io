@@ -9,8 +9,6 @@ permalink: /projects/
 ## Bio-inspired Vision and Control
 {% include video id="i2xFJNGhfxs" provider="youtube" %}
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/i2xFJNGhfxs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
 ## Deep Learning-based Navigation and Control
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/H7KSDMDAYOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
