@@ -11,8 +11,8 @@ main:
    - title: "Publications"
      url: /publication/
    - title: "Code"
-      url: /code/
+     url: /code/
    - title: "News"
-      url: /news/
+     url: /news/
   # - title: "Sitemap"
   #   url: /sitemap/
