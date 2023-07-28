@@ -13,9 +13,9 @@ permalink: /CV/
 
 ## Working Experience
 - 2017--current Senior Lecturer/ Assistant Professor, Universiti Sains Malaysia (USM)}
-        - UAV Laboratory Manager, School of Aerospace Engineering
-        - Coordinator for the Career and Alumni Unit, School of Aerospace Engineering
-        - Advisor for the Drone Club, USM
+  - UAV Laboratory Manager, School of Aerospace Engineering
+  - Coordinator for the Career and Alumni Unit, School of Aerospace Engineering
+  - Advisor for the Drone Club, USM
 - 2017--current Guest Researcher, Department of Control & Operations, Faculty of Aerospace Engineering, Delft University of Technology (TU Delft), The Netherlands
 - 2019--Visiting Scholar, Northwestern Polytechnical University, China
 - 2018--2019--University Associate, Curtin University of Technology, Malaysia
