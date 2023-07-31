@@ -1,13 +1,12 @@
 ---
 layout: single
-classes: wide
 author_profile: true
 title: "Projects"
 permalink: /projects/
 ---
 
 ## Bio-inspired Vision and Control
-{% include video id="i2xFJNGhfxs" height="50%" provider="youtube" %}
+{% include video id="i2xFJNGhfxs" provider="youtube" %}
 
 ## Deep Learning-based Navigation and Control
 <p> Updating soon... </p>
