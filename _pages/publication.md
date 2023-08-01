@@ -7,7 +7,7 @@ permalink: /publication/
 ---
 
 ## Selected Articles:
-<small>- H. W. Ho, G. C. H. E. de Croon, E. van Kampen, Q. P. Chu, and M. Mulder, <b>Adaptive gain control strategy for constant optical flow divergence landing</b>, IEEE transactions on robotics, 34(2):508-516, 2018. ([Link](https://ieeexplore.ieee.org/document/8331925))</small>
+- <small>H. W. Ho, G. C. H. E. de Croon, E. van Kampen, Q. P. Chu, and M. Mulder, <b>Adaptive gain control strategy for constant optical flow divergence landing</b>, IEEE transactions on robotics, 34(2):508-516, 2018. ([Link](https://ieeexplore.ieee.org/document/8331925))</small>
 - H. W. Ho, C. De Wagter, B. D. W. Remes, and G. C. H. E. de Croon, <b>Optical-flow based self-supervised learning of obstacle appearance applied to MAV landing</b>, Robotics and Autonomous Systems, 100:78-94, 2018. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0921889017305626))
 - H. W. Ho, C. De Wagter, B. D. W. Remes, and G. C. H. E. de Croon, <b>Optical flow for self-supervised learning of obstacle appearance</b>, in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2015 (IROS 2015) (IEEE, Hamburg, Germany, 2015). ([Link](https://ieeexplore.ieee.org/document/7353805))
 - Y. Zhou, H. W. Ho, Q. Chu, <b>Extended Incremental nonlinear dynamic inversion for optical flow control of micro air vehicles</b>, Aerospace Science and Technology, 106889, 2021. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1270963821003990))
