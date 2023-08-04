@@ -5,7 +5,7 @@ author_profile: true
 title: "CV"
 permalink: /CV/
 ---
-[Link](/publication/CV_HannWoei_June23.pdf)
+[PDF](/publication/CV_HannWoei_June23.pdf)
 ## Education/ Research
 - 2013--2017: Ph.D. Degree, Delft University of Technology (TU Delft) Delft, The Netherlands Aerospace Engineering
 - 2010--2012: MSc. Degree, Delft University of Technology (TU Delft) Delft, The Netherlands Aerospace Engineering (Distinction/ cum laude)
