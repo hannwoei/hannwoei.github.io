@@ -20,4 +20,4 @@ permalink: /projects/
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/qfACJa0LJOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## Swarms
-<p><iframe width="560" height="315" src="https://youtu.be/embed/x4nwDKl6mOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://youtu.be/embed/x4nwDKl6mOY?si=nnli_EKiv0Mn3ceA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
