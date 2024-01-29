@@ -17,6 +17,6 @@ permalink: /CV/
   - UAV Laboratory Manager, School of Aerospace Engineering
   - Coordinator for the Career and Alumni Unit, School of Aerospace Engineering
   - Advisor for the Drone Club, USM
-- 2017--current: Guest Researcher, Department of Control & Operations, Faculty of Aerospace Engineering, Delft University of Technology (TU Delft), The Netherlands
+- 2017--2023: Guest Researcher, Department of Control & Operations, Faculty of Aerospace Engineering, Delft University of Technology (TU Delft), The Netherlands
 - 2019: Visiting Scholar, Northwestern Polytechnical University, China
 - 2018: University Associate, Curtin University of Technology, Malaysia
