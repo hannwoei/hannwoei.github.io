@@ -6,17 +6,20 @@ permalink: /projects/
 ---
 <p> Updating soon... </p>
 
-## Insect-inspired Micro Air Vehicles for Smart Farming
+## Autonomous Navigation of Micro Air Vehicles for Smart Farming
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/v14PVgojv7E?si=gnUj5q68Duvo9HMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi, <b>ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations</b>, IEEE Robotics and Automation Letters (under review). ([Link](https://arxiv.org/abs/2503.02275))
 
-## Self-supervised Learning for Water Leak Localization
+## Automatic Water Leak Localization in Smart Building
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/f3rdVodOLW4?si=S3JKfbV7v-p-MpjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-Nurfarah Anisah Mohd Yussof, Hann Woei Ho, Ye Zhou, <b>Self-Supervised Deep Learning for Efficient Water Leak Localization with Micro Air Vehicles</b>, Journal of Aerospace Information Systems (submitted).
+Nurfarah Anisah Mohd Yussof, Hann Woei Ho, Ye Zhou, <b>Self-Supervised Deep Learning for Efficient Water Leak Localization with Micro Air Vehicles</b>, AIAA Journal of Aerospace Information Systems (submitted).
 
 ## Bio-inspired Vision and Control
 {% include video id="i2xFJNGhfxs" provider="youtube" %}
 H. W. Ho, Y. Zhou, <b>Incremental Nonlinear Dynamic Inversion based Optical Flow Control for Flying Robots: An Efficient Data-driven Approach</b>, in Robotics: Science and Systems, 2023 (RSS 2023) (Daegu, Republic of Korea, 2023) ([Link](https://www.roboticsproceedings.org/rss19/p081.html)) ([PDF](/publication/INDI_InverseG_RSS2023.pdf))
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/5_Kg0P-GjlU?si=OW5UWjhDkC0tfZ6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+H. W. Ho, & Y. Zhou, <b>Frontal Target Approaching and Height Control of Micro Air Vehicles using Multi-perspective Optical Flow Observables</b>, 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE) (pp. 3754-3759). IEEE. ([Link](https://ieeexplore.ieee.org/abstract/document/10711455))
 
 ## Deep Learning-based Navigation and Control
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/H7KSDMDAYOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
