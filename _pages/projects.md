@@ -10,6 +10,10 @@ permalink: /projects/
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/v14PVgojv7E?si=gnUj5q68Duvo9HMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi, <b>ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations</b>, IEEE Robotics and Automation Letters (under review). ([Link](https://arxiv.org/abs/2503.02275))
 
+## Self-supervised Learning for Water Leak Localization
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/f3rdVodOLW4?si=S3JKfbV7v-p-MpjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+Nurfarah Anisah Mohd Yussof, Hann Woei Ho, Ye Zhou, <b>Self-Supervised Deep Learning for Efficient Water Leak Localization with Micro Air Vehicles</b>, Journal of Aerospace Information Systems (submitted).
+
 ## Bio-inspired Vision and Control
 {% include video id="i2xFJNGhfxs" provider="youtube" %}
 H. W. Ho, Y. Zhou, <b>Incremental Nonlinear Dynamic Inversion based Optical Flow Control for Flying Robots: An Efficient Data-driven Approach</b>, in Robotics: Science and Systems, 2023 (RSS 2023) (Daegu, Republic of Korea, 2023) ([Link](https://www.roboticsproceedings.org/rss19/p081.html)) ([PDF](/publication/INDI_InverseG_RSS2023.pdf))
