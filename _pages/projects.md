@@ -5,6 +5,7 @@ title: "Projects"
 permalink: /projects/
 ---
 <p> Updating soon... </p>
+
 ## Insect-inspired Micro Air Vehicles for Smart Farming
 <p><iframe width="560" height="315" src="https://youtu.be/v14PVgojv7E?si=Fb-qJDhfr40DLlV_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi, <b>ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations</b>, IEEE Robotics and Automation Letters (under review). ([Link](https://arxiv.org/abs/2503.02275))
