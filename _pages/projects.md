@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## Autonomous Navigation of UAVs for Smart Farming
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/v14PVgojv7E?si=gnUj5q68Duvo9HMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi, <b>ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations</b>, IEEE Robotics and Automation Letters (under review). ([Link](https://arxiv.org/abs/2503.02275))
+Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi, <b>ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations</b>, IEEE Robotics and Automation Letters (accepted). ([Link](https://arxiv.org/abs/2503.02275))
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/H7KSDMDAYOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 H. Y. Lee, H. W. Ho, Y. Zhou, <b>Deep learning-based monocular obstacle avoidance for unmanned aerial vehicle navigation in tree plantations</b>, Journal of Intelligent and Robotic Systems, 101(1):1-18, 2021. ([Link](https://link.springer.com/article/10.1007/s10846-020-01284-z))
