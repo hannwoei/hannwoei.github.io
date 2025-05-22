@@ -7,7 +7,7 @@ permalink: /publication/
 ---
 
 ## Selected Articles:
-- H. W. Ho, G. C. H. E. de Croon, E. van Kampen, Q. P. Chu, and M. Mulder, <b>Adaptive gain control strategy for constant optical flow divergence landing</b>, IEEE transactions on robotics, 34(2):508-516, 2018. ([Link](https://ieeexplore.ieee.org/document/8331925))
+- H. W. Ho, G. C. H. E. de Croon, E. van Kampen, Q. P. Chu, and M. Mulder, <b>Adaptive gain control strategy for constant optical flow divergence landing</b>, IEEE Transactions on Robotics, 34(2):508-516, 2018. ([Link](https://ieeexplore.ieee.org/document/8331925))
 - Weijie Kuang, Hann Woei Ho, Ye Zhou, Shahrel Azmin Suandi, <b>ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations</b>, IEEE Robotics and Automation Letters, 2025 (Accepted). ([Link](https://arxiv.org/abs/2503.02275))
 - H. W. Ho, Y. Zhou, <b>Incremental Nonlinear Dynamic Inversion based Optical Flow Control for Flying Robots: An Efficient Data-driven Approach</b>, in Robotics: Science and Systems, 2023 (RSS 2023) (Daegu, Republic of Korea, 2023) ([Link](https://www.roboticsproceedings.org/rss19/p081.html)) ([PDF](/publication/INDI_InverseG_RSS2023.pdf))
 - H. W. Ho, C. De Wagter, B. D. W. Remes, and G. C. H. E. de Croon, <b>Optical flow for self-supervised learning of obstacle appearance</b>, in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2015 (IROS 2015) (IEEE, Hamburg, Germany, 2015). ([Link](https://ieeexplore.ieee.org/document/7353805))
