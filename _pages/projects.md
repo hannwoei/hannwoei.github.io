@@ -4,7 +4,6 @@ author_profile: true
 title: "Projects"
 permalink: /projects/
 ---
-<p> Updating soon... </p>
 
 ## Autonomous Navigation of UAVs for Smart Farming
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/v14PVgojv7E?si=gnUj5q68Duvo9HMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
