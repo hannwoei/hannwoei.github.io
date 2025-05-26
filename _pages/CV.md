@@ -21,4 +21,3 @@ permalink: /CV/
 - 2017--2023: Guest Researcher, Department of Control & Operations, Faculty of Aerospace Engineering, Delft University of Technology (TU Delft), The Netherlands
 - 2019: Visiting Scholar, Northwestern Polytechnical University, China
 - 2018: University Associate, Curtin University of Technology, Malaysia
-
