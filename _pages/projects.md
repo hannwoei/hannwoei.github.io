@@ -35,7 +35,7 @@ H. W. Ho, & Y. Zhou, <b>Frontal Target Approaching and Height Control of Micro A
 B.H. Cheaw, H. W. Ho, E. Abu Bakar, <b>Wing design, fabrication, and analysis for an X-wing flapping-Wing micro air vehicle</b>, Drones, 3: 65, 2019. ([Link](https://www.mdpi.com/2504-446X/3/3/65))
 
 ## Swarms / Multi-agents
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/x4nwDKl6mOY?si=nnli_EKiv0Mn3ceA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/upBBVKfkuuk?si=AWXfS5RhiBpJJsTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 Aohua Li, Ye Zhou, Weijie Kuang, and Hann Woei Ho, <b>Acoustic-enhanced local bearing estimation using low-cost microphones for Micro Air Vehicle swarms</b>, Biomimetic Intelligence and Robotics, 2025 (Accepted). ([Link](https://www.sciencedirect.com/science/article/pii/S2667379725000555))
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/x4nwDKl6mOY?si=nnli_EKiv0Mn3ceA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
