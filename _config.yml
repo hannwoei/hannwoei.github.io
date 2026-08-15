@@ -20,7 +20,7 @@ title                    : "Intelligent Aerial Robots | Hann Woei"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hann Woei Ho"
-description              : "Universiti Sains Malaysia"
+description              : "Northwestern Polytechnical University"
 url                      : "https://hannwoei.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Hann Woei Ho"
   avatar           : "/assets/images/IMG_3311_square_reduced.jpg"
-  bio              : "Senior Lecturer/ Assistant Professor, UAV Lab Manager, Senior Member IEEE, HRDF Certified Trainer"
-  location         : "Penang, Malaysia"
+  bio              : "Professor, Senior Member IEEE, HRDF Certified Trainer"
+  location         : "Xi'an, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:aehannwoei@usm.my"
+      url: "mailto:hannwoei@nwpu.edu.cn"
     - label: "Research Group"
       icon: "fas fa-fw fa-link"
       url: "https://iaerialrobo.github.io/"
