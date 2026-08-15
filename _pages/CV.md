@@ -12,7 +12,10 @@ permalink: /CV/
 - 2005--2009: BEng. Degree, Universiti Sains Malaysia (USM) Nibong Tebal, Malaysia Aerospace Engineering (Gold Medal)
 
 ## Working Experience
-- 2017--current:
+- 2026--current:
+  - Professor, School of Aeronautics, Northwestern Polytechnical University, China
+  - Associate Editor, IEEE ICRA
+- 2017--2026:
   - Senior Lecturer/ Assistant Professor, Universiti Sains Malaysia (USM)}
   - UAV Laboratory Manager, School of Aerospace Engineering
   - Coordinator for the Career and Alumni Unit, School of Aerospace Engineering
